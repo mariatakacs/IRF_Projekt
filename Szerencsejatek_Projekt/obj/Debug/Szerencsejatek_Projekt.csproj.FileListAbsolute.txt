@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\bin\Debug\Szerencsejatek_Projekt.exe.config
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\bin\Debug\Szerencsejatek_Projekt.exe
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\bin\Debug\Szerencsejatek_Projekt.pdb
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\obj\Debug\Szerencsejatek_Projekt.csprojAssemblyReference.cache
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\obj\Debug\Szerencsejatek_Projekt.Properties.Resources.resources
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\obj\Debug\Szerencsejatek_Projekt.csproj.GenerateResource.cache
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\obj\Debug\Szerencsejatek_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\obj\Debug\Szerencsejatek_Projekt.exe
+C:\Users\User\source\repos\mariatakacs\IRF_Projekt\Szerencsejatek_Projekt\obj\Debug\Szerencsejatek_Projekt.pdb
